@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.cache
+.pytest_cache/
+nosetests.xml
+test-results.xml
+
+# MyPy / Pyright / Pylint reports
+.mypy_cache/
+.pyright/
+.pyre/
+.pylint.d/
+
+# VS Code / PyCharm settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secret / config files
+*.pem
+*.key
+*.crt
+*.env
+*.ini
+*.cfg
+secrets.json
+config.json
+
+# Logs
+*.log
+
+# Python scripts output (optional)
+output.txt
+wallets.txt
+debug_dump.txt
+
+# Jupyter Notebooks (if any)
+.ipynb_checkpoints/
+
+# Git tracked private key backups (just in case)
+*.wif
+*.bak
+*.old
+*.backup
